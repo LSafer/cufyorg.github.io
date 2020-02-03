@@ -1,7 +1,7 @@
 <html lang="en">
     <head>
         <title>Cufyorg</title>
-        <link rel="icon" type="image/png" href="icon.png" />
+        <link rel="icon" type="image/png" href="https://cufyorg.github.io/icon.png" />
     </head>
 </html>
 
