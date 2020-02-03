@@ -1,7 +1,14 @@
-### [Overview](https://www.github.com/lsafer)
-Cufy is organization made by lsafer. An organization all about students and beginners studying together helping each other like they are pros.
+<html lang="en">
+    <head>
+        <title>Cufyorg</title>
+        <link rel="icon" type="image/png" href="icon.png" />
+    </head>
+</html>
 
-### [Core](https://www.github.com/cufyorg/core)
+### [Overview](https://www.github.com/lsafer)
+Cufy is organization made by lsafer. An organization all about coding.
+
+# [cufyorg:core](https://www.github.com/cufyorg/core)
 The main dependency for all Cufy Java/Groovy Repositories.
 
 ### [Util](https://www.github.com/cufyorg/util)
