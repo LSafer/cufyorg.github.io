@@ -22,17 +22,17 @@
 [base]:https://www.github.com/cufyorg/base
 [base-invoke]:https://www.github.com/cufyorg/base/blob/master/src/main/java/cufy/beans/Invoke.java
 [base-converter]:https://www.github.com/cufyorg/base/blob/master/src/main/java/cufy/lang/Converter.java
-[base-format]:https://www.github.com/cufyorg/base/blobl/master/src/main/java/cufy/text/Format.java
+[base-format]:https://www.github.com/cufyorg/base/blob/master/src/main/java/cufy/text/Format.java
 [base-type]:https://www.github.com/cufyorg/base/blob/master/src/main/java/cufy/lang/Type.java
 [base-value]:https://www.github.com/cufyorg/base/blob/master/src/main/java/cufy/lang/Value.java
 
 [beans]:https://www.github.com/cufyorg/beans
 [beans-bean]:https://www.github.com/cufyorg/beans/blob/master/src/main/java/cufy/beans/Bean.java
 
-[concurrent]:https://www.github.com/cufyorg/concerrent
-[concurrent-loop]:https://www.github.com/cufyorg/concerrent/blob/master/src/main/java/cufy/lang/Loop.java
-[concurrent-instructor]:https://www.github.com/cufyorg/concerrent/blob/master/src/main/java/cufy/lang/Instructor.java
-[concurrent-lock]:https://www.github.com/cufyorg/concerrent/blob/master/src/main/java/cufy/lang/Lock.java
+[concurrent]:https://www.github.com/cufyorg/concurrent
+[concurrent-loop]:https://www.github.com/cufyorg/concurrent/blob/master/src/main/java/cufy/lang/Loop.java
+[concurrent-instructor]:https://www.github.com/cufyorg/concurrent/blob/master/src/main/java/cufy/lang/Instructor.java
+[concurrent-lock]:https://www.github.com/cufyorg/concurrent/blob/master/src/main/java/cufy/lang/Lock.java
 
 [json]:https://www.github.com/cufyorg/json
 [json-json]:https://www.github.com/cufyorg/json/blob/master/src/main/java/org/cufy/text/JSON.java
