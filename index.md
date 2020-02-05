@@ -4,9 +4,9 @@
         <script>
             window.onload = function() {
               let link = top.document.createElement("link");
-              link.type = "image/x-icon";
-              link.rel = "shortcut icon";
-              link.href = "https://cufyorg.github.io/favicon.ico";
+              link.type = "image/*";
+              link.rel = "icon";
+              link.href = "https://cufyorg.github.io/origin_ic.png";
               top.document.getElementsByTagName("head")[0].appendChild(link);
             };
         </script>
