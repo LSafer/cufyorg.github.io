@@ -1,3 +1,18 @@
+<html lang="en">
+    <head>
+        <title>Cufyorg</title>
+        <script>
+            window.onload = function() {
+              let link = top.document.createElement("link");
+              link.type = "image/x-icon";
+              link.rel = "shortcut icon";
+              link.href = "/favicon.ico";
+              top.document.getElementsByTagName("head")[0].appendChild(link);
+            };
+        </script>
+    </head>
+</html>
+
 [util]:https://www.github.com/cufyorg/util
 
 [util-arrays]:https://github.com/cufyorg/util/blob/master/src/main/java/cufy/util/Array$.java
