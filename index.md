@@ -1,18 +1,3 @@
-<html lang="en">
-    <head>
-        <title>Cufyorg</title>
-        <script>
-            window.onload = function() {
-              let link = top.document.createElement("link");
-              link.type = "image/x-icon";
-              link.rel = "shortcut icon";
-              link.href = "/wiki.ico";
-              top.document.getElementsByTagName("head")[0].appendChild(link);
-            };
-        </script>
-    </head>
-</html>
-
 [util]:https://www.github.com/cufyorg/util
 
 [util-arrays]:https://github.com/cufyorg/util/blob/master/src/main/java/cufy/util/Array$.java
@@ -39,10 +24,6 @@
 [json]:https://www.github.com/cufyorg/json
 [json-json]:https://www.github.com/cufyorg/json/blob/master/src/main/java/org/cufy/text/JSON.java
 [json-json_converter]:https://www.github.com/cufyorg/json/blob/master/src/main/java/org/cufy/lang/JSONConverter.java
-
-[lsafer]:https://www.github.com/lsafer
-
----
 
 # **Util** [<font size="3">(cufyorg:util)</font>][util]
 A raw static utils for classes. All classes in this repository are in package 'cufy.util'. In this repo, No classes expected to be instanced. And
@@ -136,7 +117,3 @@ recursion and comments.
 - ### **JSONConverter** [<font size="3">(org.cufy.lang.JSONConverter)</font>][json-json_converter]
 Using both 'JSON' and 'BaseConverter'. This class can preform all the basic conversions, Plus can preform string->object and object->string using
 JSON Format.
-
----
-
-### Made by LSafer [<font size="3">(github:lsafer)</font>][lsafer]
