@@ -14,14 +14,12 @@
 </html>
 
 [util]:https://www.github.com/cufyorg/util
-
 [util-arrays]:https://github.com/cufyorg/util/blob/master/src/main/java/cufy/util/Array$.java
 [util-readers]:https://github.com/cufyorg/util/blob/master/src/main/java/cufy/util/Reader$.java
 [util-reflects]:https://github.com/cufyorg/util/blob/master/src/main/java/cufy/util/Reflect$.java
 [util-throwables]:https://github.com/cufyorg/util/blob/master/src/main/java/cufy/util/Throwable$.java
 
 [base]:https://www.github.com/cufyorg/base
-
 [base-invoke]:https://www.github.com/cufyorg/base/blob/master/src/main/java/cufy/beans/Invoke.java
 [base-converter]:https://www.github.com/cufyorg/base/blob/master/src/main/java/cufy/lang/Converter.java
 [base-format]:https://www.github.com/cufyorg/base/blobl/master/src/main/java/cufy/text/Format.java
@@ -60,7 +58,7 @@ Utilities for reflection environments. Methods in this class focused for dealing
 information from it. Also about converting it from a class to another.
 
 - ### **Throwables** [<font size="3">(cufy.util.Throwable$)</font>][util-throwables]
-Utilities for throwables and exceptions. It has some glitches too.
+Utilities for throwables and exceptions. It has some useful glitches too.
 
 ---
 
@@ -95,29 +93,29 @@ It uses a class of converter and a string for the value and the class of the tar
 
 ---
 
-# **Beans** [<font size="3">cufyorg:beans</font>][beans]
+# **Beans** [<font size="3">(cufyorg:beans)</font>][beans]
 Abstract classes and interfaces that change the behavior of the implemented classes. Like changing the way accessing the class's fields or the way
 invoking the class's methods. This repo most uses the package 'cufy.beans'.
 
-- ### **Bean** [<font size="3">cufy.beans.Bean</font>][beans-bean]
+- ### **Bean** [<font size="3">(cufy.beans.Bean)</font>][beans-bean]
 An interface changes the act of the fields of the class implementing it. The classes that implement this class change to be used as a map
 (JavaScript like). All of the fields of that class will be like a map-entry holder (like property on beans). Fields not annotated with property
 annotation will be excluded. The annotation parameters will change the behavior of the class with that field annotated.
 
 ---
 
-# **Concurrent** [<font size="3">cufyorg:concurrent</font>][concurrent]
+# **Concurrent** [<font size="3">(cufyorg:concurrent)</font>][concurrent]
 Simplifications and interfaces/protocols to deal with concurrent environment. Like loops, nested loops and threads or locks. This repo most uses
 the packages 'cufy.lang' and 'cufy.util.concurrent'.
 
-- ### **Loop** [<font size="3">cufy.lang.Loop</font>][concurrent-loop]
+- ### **Loop** [<font size="3">(cufy.lang.Loop)</font>][concurrent-loop]
 A class represents a loop. The class holds the position of that loop. The code of that loop. And how to iterate the code. Also contains methods to
 interrupt or change or get data from/to that loop concurrently.
 
-- ### **Instructor** [<font size="3">cufy.lang.Instructor</font>][concurrent-instructor]
+- ### **Instructor** [<font size="3">(cufy.lang.Instructor)</font>][concurrent-instructor]
 A class that works like a remote to multiple loops. Like sending/interrupting or changing the position of those loops.
 
-- ### **Lock** [<font size="3">cufy.lang.Lock</font>][concurrent-lock]
+- ### **Lock** [<font size="3">(cufy.lang.Lock)</font>][concurrent-lock]
 A thread that gain/release object lock access depending on the position of it. By gaining that lock then sleeping.
 
 ---
