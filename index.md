@@ -40,7 +40,7 @@
 [json-json]:https://www.github.com/cufyorg/json/blob/master/src/main/java/org/cufy/text/JSON.java
 [json-json_converter]:https://www.github.com/cufyorg/json/blob/master/src/main/java/org/cufy/lang/JSONConverter.java
 
-Cufy is organization made by lsafer. An organization all about coding.
+[lsafer]:https://www.github.com/lsafer
 
 ---
 
@@ -138,3 +138,5 @@ Using both 'JSON' and 'BaseConverter'. This class can preform all the basic conv
 JSON Format.
 
 ---
+
+### Made by LSafer [<font size="3">(github:lsafer)</font>][lsafer]
