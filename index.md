@@ -26,9 +26,6 @@
 [base-type]:https://www.github.com/cufyorg/base/blob/master/src/main/java/cufy/lang/Type.java
 [base-value]:https://www.github.com/cufyorg/base/blob/master/src/main/java/cufy/lang/Value.java
 
-[beans]:https://www.github.com/cufyorg/beans
-[beans-bean]:https://www.github.com/cufyorg/beans/blob/master/src/main/java/cufy/beans/Bean.java
-
 [concurrent]:https://www.github.com/cufyorg/concurrent
 [concurrent-loop]:https://www.github.com/cufyorg/concurrent/blob/master/src/main/java/cufy/lang/Loop.java
 [concurrent-instructor]:https://www.github.com/cufyorg/concurrent/blob/master/src/main/java/cufy/lang/Instructor.java
@@ -37,6 +34,17 @@
 [json]:https://www.github.com/cufyorg/json
 [json-json]:https://www.github.com/cufyorg/json/blob/master/src/main/java/org/cufy/text/JSON.java
 [json-json_converter]:https://www.github.com/cufyorg/json/blob/master/src/main/java/org/cufy/lang/JSONConverter.java
+
+[beans]:https://www.github.com/cufyorg/beans
+[beans-bean]:https://www.github.com/cufyorg/beans/blob/master/src/main/java/cufy/beans/Bean.java
+
+[io]:https://www.github.com/cufyorg/io
+[io-buffer]:https://www.github.com/cufyorg/io/blob/master/src/main/java/cufy/nio/Buffer.java
+[io-io*]:https://www.github.com/cufyorg/io/tree/master/src/main/java/cufy/io/
+[io-loadable]:https://www.github.com/cufyorg/io/blob/master/src/main/java/cufy/lang/Loadable.java
+[io-file_loadable]:https://www.github.com/cufyorg/io/blob/master/src/main/java/cufy/io/FileLoadable.java
+[io-url_loadable]:https://www.github.com/cufyorg/io/blob/master/src/main/java/cufy/io/URLLoadable.java
+[io-format_loadable]:https://www.github.com/cufyorg/io/blob/master/src/main/java/cufy/text/FormatLoadable.java
 
 # **Util** [<font size="3">(cufyorg:util)</font>][util]
 Raw static util for classes. All classes in this repository are in package 'cufy.util'. In this repo, No classes expected to be instanced. And
@@ -93,19 +101,8 @@ It uses a class of converter and a string for the value and the class of the tar
 
 ---
 
-# **Beans** [<font size="3">(cufyorg:beans)</font>][beans]
-Abstract classes and interfaces that change the behavior of the implemented classes. Like changing the way accessing the class's fields or the way
-invoking the class's methods. This repo most uses the package 'cufy.beans'.
-
-- ### **Bean** [<font size="3">(cufy.beans.Bean)</font>][beans-bean]
-An interface changes the act of the fields of the class implementing it. The classes that implement this class change to be used as a map
-(JavaScript like). All of the fields of that class will be like a map-entry holder (like property on beans). Fields not annotated with property
-annotation will be excluded. The annotation parameters will change the behavior of the class with that field annotated.
-
----
-
 # **Concurrent** [<font size="3">(cufyorg:concurrent)</font>][concurrent]
-Simplifications and interfaces/protocols to deal with concurrent environment. Like loops, nested loops and threads or locks. This repo most uses
+Simplifications and interfaces/protocols to deal with concurrent environment. Like loops, nested loops and threads or locks. This repository most uses
 the packages 'cufy.lang' and 'cufy.util.concurrent'.
 
 - ### **Loop** [<font size="3">(cufy.lang.Loop)</font>][concurrent-loop]
@@ -121,7 +118,7 @@ A thread that gain/release object lock access depending on the position of it. B
 ---
 
 # **JSON** [<font size="3">(cufyorg:json)</font>][json]
-JSON support. Like parse/format or convert utils. This repo most uses the package 'org.cufy.text'.
+JSON support. Like parse/format or convert utils. This repository most uses the package 'org.cufy.text'.
 
 - ### **JSON** [<font size="3">(org.cufy.text.JSON)</font>][json-json]
 Using 'Format' from the base repo. This class can format/parse or even classify any json text. This class supports the standard JSON text. Plus
@@ -130,3 +127,48 @@ recursion and comments.
 - ### **JSONConverter** [<font size="3">(org.cufy.lang.JSONConverter)</font>][json-json_converter]
 Using both 'JSON' and 'BaseConverter'. This class can preform all the basic conversions, Plus can preform string->object and object->string using
 JSON Format.
+
+---
+
+# **Beans** [<font size="3">(cufyorg:beans)</font>][beans]
+Abstract classes and interfaces that change the behavior of the implemented classes. Like changing the way accessing the class's fields or the way
+invoking the class's methods. This repository most uses the package 'cufy.beans'.
+
+- ### **Bean** [<font size="3">(cufy.beans.Bean)</font>][beans-bean]
+An interface changes the act of the fields of the class implementing it. The classes that implement this class change to be used as a map
+(JavaScript like). All of the fields of that class will be like a map-entry holder (like property on beans). Fields not annotated with property
+annotation will be excluded. The annotation parameters will change the behavior of the class with that field annotated.
+
+---
+
+# **IO** [<font size="3">(cufyorg:io)</font>][io]
+I/O interfaces and solutions for I/O interfaces. This repository is not for classes that designed to be just a part of an application.  This
+repository most uses the packages 'cufy.io', 'cufy.nio'.
+
+- ### **Buffer** [<font size="3">(cufy.nio.Buffer)</font>][io-buffer]
+A class that holds data and provide it using a cursor. It's cursor can be set manually but it can't store data at a position other than the
+position of it's cursor. It cursor increment dynamically when any data stored at it.
+
+- ### **Buffered- InputStream / Reader** [<font size="3">(cufy.io.*)</font>][io-io*]
+Since not all readers and input-streams don't support 'mark()' and 'reset()'. These classes stores the read data after invoke 'mark()'. Then supply
+the user with the buffered data after invoking 'reset()'.
+
+- ### **Remote- InputStream / OutputStream / Reader / Writer** [<font size="3">(cufy.io.*)</font>][io-io*]
+A boxing for streams, readers or writer to gain the ability to be controlled. The boxing uses Instructor to check what position it should be.
+
+- ### **Loadable** [<font size="3">(cufy.lang.Loadable)</font>][io-loadable]
+An interface to identify an object that can be loaded from a stream or a reader and can be saved to a stream or a writer. The implement class
+should able to provide an input-stream, an output-stream, a reader, and a writer. Also a controllable version of them. And should specify the way
+to save-to/load-from the streams or reader and writer that it can provide.
+
+- ### **FileLoadable** [<font size="3">(cufy.io.FileLoadable)</font>][io-file_loadable]
+An implementation for the interface Loadable. The implementation provides the required stream, reader, and writer specified by the loadable
+interface. It provides the required resources from the file that the implement class provides to it.
+
+- ### **URLLoadable** [<font size="3">(cufy.io.URLLoadable)</font>][io-url_loadable]
+An implementation for the interface Loadable. The implementation provides the required stream, reader, and writer specified by the loadable
+interface. It provides the required resources from the url that the implement class provides to it.
+
+- ### **FormatLoadable** [<font size="3">(cufy.text.FormatLoadable)</font>][io-format_loadable]
+An implementation for the interface Loadable. The implementation provides the way to save-to/load-from the resources provided from the implement
+class. The implementation uses a format (specified to be provide) to save and load data.
