@@ -140,14 +140,13 @@ An interface changes the act of the fields of the class implementing it. The cla
 annotation will be excluded. The annotation parameters will change the behavior of the class with that field annotated.
 
 ---
-
 # **IO** [<font size="3">(cufyorg:io)</font>][io]
 I/O interfaces and solutions for I/O interfaces. This repository is not for classes that designed to be just a part of an application.  This
 repository most uses the packages 'cufy.io', 'cufy.nio'.
 
 - ### **Buffer** [<font size="3">(cufy.nio.Buffer)</font>][io-buffer]
-A class that holds data and provide it using a cursor. It's cursor can be set manually but it can't store data at a position other than the
-position of it's cursor. It cursor increment dynamically when any data stored at it.
+A class that holds data and provide it using a cursor. Its cursor can be set manually but it can't store data at a position other than the
+position of its cursor. It’s cursor increments dynamically when any data stored at it.
 
 - ### **Buffered- InputStream / Reader** [<font size="3">(cufy.io.*)</font>][io-io*]
 Since not all readers and input-streams don't support 'mark()' and 'reset()'. These classes stores the read data after invoke 'mark()'. Then supply
@@ -157,17 +156,17 @@ the user with the buffered data after invoking 'reset()'.
 A boxing for streams, readers or writer to gain the ability to be controlled. The boxing uses Instructor to check what position it should be.
 
 - ### **Loadable** [<font size="3">(cufy.lang.Loadable)</font>][io-loadable]
-An interface to identify an object that can be loaded from a stream or a reader and can be saved to a stream or a writer. The implement class
+An interface to identify an object that can be loaded from a stream or a reader and can be saved to a stream or a writer. The implementing class
 should able to provide an input-stream, an output-stream, a reader, and a writer. Also a controllable version of them. And should specify the way
 to save-to/load-from the streams or reader and writer that it can provide.
 
 - ### **FileLoadable** [<font size="3">(cufy.io.FileLoadable)</font>][io-file_loadable]
 An implementation for the interface Loadable. The implementation provides the required stream, reader, and writer specified by the loadable
-interface. It provides the required resources from the file that the implement class provides to it.
+interface. It provides the required resources from the file that the implementing class provides to it.
 
 - ### **URLLoadable** [<font size="3">(cufy.io.URLLoadable)</font>][io-url_loadable]
 An implementation for the interface Loadable. The implementation provides the required stream, reader, and writer specified by the loadable
-interface. It provides the required resources from the url that the implement class provides to it.
+interface. It provides the required resources from the URL that the implement class provides to it.
 
 - ### **FormatLoadable** [<font size="3">(cufy.text.FormatLoadable)</font>][io-format_loadable]
 An implementation for the interface Loadable. The implementation provides the way to save-to/load-from the resources provided from the implement
