@@ -42,6 +42,8 @@
 [io-buffer]:https://www.github.com/cufyorg/io/blob/master/src/main/java/cufy/nio/Buffer.java
 [io-io*]:https://www.github.com/cufyorg/io/tree/master/src/main/java/cufy/io/
 [io-loadable]:https://www.github.com/cufyorg/io/blob/master/src/main/java/cufy/lang/Loadable.java
+[io-codec_impl_loadable]:https://www.github.com/cufyorg/io/blob/master/src/main/java/org/cufy/lang/CodecImplLoadable.java
+[io-path_impl_loadable]:https://www.github.com/cufyorg/io/blob/master/src/main/java/org/cufy/lang/PathImplLoadable.java
 [io-file_loadable]:https://www.github.com/cufyorg/io/blob/master/src/main/java/cufy/io/FileLoadable.java
 [io-url_loadable]:https://www.github.com/cufyorg/io/blob/master/src/main/java/cufy/io/URLLoadable.java
 [io-format_loadable]:https://www.github.com/cufyorg/io/blob/master/src/main/java/cufy/text/FormatLoadable.java
@@ -140,6 +142,7 @@ An interface changes the act of the fields of the class implementing it. The cla
 annotation will be excluded. The annotation parameters will change the behavior of the class with that field annotated.
 
 ---
+
 # **IO** [<font size="3">(cufyorg:io)</font>][io]
 I/O interfaces and solutions for I/O interfaces. This repository is not for classes that designed to be just a part of an application.  This
 repository most uses the packages 'cufy.io', 'cufy.nio'.
@@ -160,14 +163,20 @@ An interface to identify an object that can be loaded from a stream or a reader 
 should able to provide an input-stream, an output-stream, a reader, and a writer. Also a controllable version of them. And should specify the way
 to save-to/load-from the streams or reader and writer that it can provide.
 
-- ### **FileLoadable** [<font size="3">(cufy.io.FileLoadable)</font>][io-file_loadable]
-An implementation for the interface Loadable. The implementation provides the required stream, reader, and writer specified by the loadable
+- ### **CodecImplLoadable** [<font size="3">(org.cufy.lang.CodecImplLoadable)</font>][io-codec_impl_loadable]
+An interface for loadables that requires a codec getter and setter.
+
+- ### **PathImplLoadable** [<font size="3">(org.cufy.lang.PathImplLoadable)</font>][io-path_impl_loadable]
+An interface for loadables (extends Loadable) that requires a path getter and setter.
+
+- ### **FileLoadable** [<font size="3">(org.cufy.io.FileLoadable)</font>][io-file_loadable]
+An implementation for the interface PathImplLoadable. The implementation provides the required stream, reader, and writer specified by the loadable
 interface. It provides the required resources from the file that the implementing class provides to it.
 
-- ### **URLLoadable** [<font size="3">(cufy.io.URLLoadable)</font>][io-url_loadable]
-An implementation for the interface Loadable. The implementation provides the required stream, reader, and writer specified by the loadable
-interface. It provides the required resources from the URL that the implement class provides to it.
+- ### **URLLoadable** [<font size="3">(org.cufy.net.URLLoadable)</font>][io-url_loadable]
+An implementation for the interface PathImplLoadable. The implementation provides the required stream, reader, and writer specified by the loadable
+interface. It provides the required resources from the URL that the implementing class provides to it.
 
-- ### **FormatLoadable** [<font size="3">(cufy.text.FormatLoadable)</font>][io-format_loadable]
-An implementation for the interface Loadable. The implementation provides the way to save-to/load-from the resources provided from the implement
-class. The implementation uses a format (specified to be provide) to save and load data.
+- ### **FormatLoadable** [<font size="3">(org.cufy.text.FormatLoadable)</font>][io-format_loadable]
+An implementation for the interface CodecImplLoadable. The implementation provides the way to save-to/load-from the resources provided from the
+implementing class. The implementation uses a format (specified to be provide) to save and load data.
