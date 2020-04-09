@@ -1,17 +1,15 @@
-<html lang="en">
-    <head>
-        <title>Cufyorg</title>
-        <script>
-            window.onload = function() {
-              let link = top.document.createElement("link");
-              link.type = "image/*";
-              link.rel = "icon";
-              link.href = "https://cufyorg.github.io/origin_ic.png";
-              top.document.getElementsByTagName("head")[0].appendChild(link);
-            };
-        </script>
-    </head>
-</html>
+<head>
+    <title>Cufyorg</title>
+    <script>
+        window.onload = function() {
+          let link = top.document.createElement("link");
+          link.type = "image/*";
+          link.rel = "icon";
+          link.href = "https://cufyorg.github.io/origin_ic.png";
+          top.document.getElementsByTagName("head")[0].appendChild(link);
+        };
+    </script>
+</head>
 
 The cufy framework is focused on to be more inheritable and more reflection friendly. Making it
 less efficient (minor) but more fun and reliable in big complex projects.
