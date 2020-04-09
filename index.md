@@ -1,24 +1,24 @@
-<head>
-    <title>Cufy</title>
-    <script>
-        window.onload = function() {
-          let link = top.document.createElement("link");
-          link.type = "image/*";
-          link.rel = "icon";
-          link.href = "https://cufyorg.github.io/origin_ic.png";
-          top.document.getElementsByTagName("head")[0].appendChild(link);
-        };
-    </script>
-</head>
+<html lang="en">
+    <head>
+        <title>Cufy</title>
+        <script>
+            window.onload = function() {
+              let link = top.document.createElement("link");
+              link.type = "image/*";
+              link.rel = "icon";
+              link.href = "cufy.png";
+              top.document.getElementsByTagName("head")[0].appendChild(link);
+            };
+        </script>
+    </head>
+</html>
 
 The cufy framework is focused on to be more inheritable and more reflection friendly. Making it
 less efficient (minor) but more fun and reliable in big complex projects.
 
 ## Util
 Utils and commons that supports reflection.
-<details>
-<summary>more details</summary>
-    
+
 -   ### Groups
     Collections are a base thing on programming. But it is hard to make a collection foreach
     category a main collection. So it is easier to make the main collection dived it's content for
@@ -59,13 +59,9 @@ Utils and commons that supports reflection.
         List list = Collectionsu.asList(indexedMap);
     ```
 
-</details>
-
 ## Util: Function
 Functional interfaces.
-<details>
-    <summary>more details</summary>
-    
+
 -   ### Throw Lambdas
     There is always that position. When you want to pass a simple runnable or consumer to some
     method. And that method will invoke it on the same thread. And you don't need to catch 
@@ -80,31 +76,17 @@ Functional interfaces.
         }
     ```
 
-</details>
-
 ## Lang
 Base concepts with powerful features.
-<details>
-    <summary>more details</summary>
-</details> 
 
 ## Meta
 Support for runtime annotations that the program is depending on for it's computations.
-<details>
-    <summary>more details</summary>
-</details> 
 
 ## Convert
 Converting objects to different types.
-<details>
-    <summary>more details</summary>
-</details>
 
 ## Text
 Abstracts for formatting, parsing and classifying text.
-<details>
-    <summary>more details</summary>
-</details>
 
 ## Text: JSON
 So advanced JSON formatter, parser and classifier.
@@ -114,9 +96,7 @@ So advanced JSON formatter, parser and classifier.
 - Supports recursion
 - Can parse to an existing container (List or Map) and it deep override them
 - Can specify the type of the input or output using Clazzes
-<details>
-    <summary>more details</summary>
-    
+
 -   ### To parse a json-text:
     
     ```java 
@@ -145,7 +125,6 @@ So advanced JSON formatter, parser and classifier.
     ```java 
     JSON.global.format(inputObject, outputObject, inputClazz, outputClazz);
     ```
-</details>
 
 ## Beans
 A bean is a map that it's fields is the properties of it. 
@@ -153,8 +132,6 @@ A bean is a map that it's fields is the properties of it.
 - Any object can be a bean. Just with annotations.
 - Interface based. Any class can implement.
 - fields tris to convert the value before storing it.
-<details>
-    <summary>more details</summary>
     
 -   ### A simple bean example:
     
@@ -177,23 +154,13 @@ A bean is a map that it's fields is the properties of it.
         @Property(key = @MetaObject("newKey"), type = @MetaClazz(Integer.class))
         int ex_property;
     ```
-</details>
 
 ## Concurrent
 Utils to deal with concurrent actions and infinite loops. All utils depends on the logic rather
 than the timing
-<details>
-    <summary>more details</summary>
-</details>
 
 ## IO
 Utils to deal with Input/Output ports. Like dealing with files or dealing with internet.
-<details>
-    <summary>more details</summary>
-</details>
 
 ## IO: Loadable
 Objects that can be loaded and saved.
-<details>
-    <summary>more details</summary>
-</details>
