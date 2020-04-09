@@ -1,5 +1,5 @@
 <head>
-    <title>Cufyorg</title>
+    <title>Cufy</title>
     <script>
         window.onload = function() {
           let link = top.document.createElement("link");
