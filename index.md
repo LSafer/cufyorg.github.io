@@ -1,6 +1,5 @@
 <html lang="en">
     <head>
-        <title>Cufy</title>
         <script>
             window.onload = function() {
               let link = top.document.createElement("link");

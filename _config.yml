@@ -3,4 +3,3 @@ markdown: kramdown
 kramdown:
   parse_block_html: true
 title: Cufy
-description: The Cufy Orgnization
