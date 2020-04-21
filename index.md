@@ -12,7 +12,7 @@
     </head>
 </html> 
 
-## Cufy Framework [](https://cufy.org/framework)
+## Cufy Framework
 The cufy framework is focused on to be more inheritable and more reflection friendly. Making it
 less efficient (minor) but more fun and reliable in big complex projects.
 <p align="center">
