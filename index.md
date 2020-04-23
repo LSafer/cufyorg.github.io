@@ -25,14 +25,14 @@ of Cufy are mentioned below:
     -   [Website](https://framework.cufy.org)
     -   [javadoc](https://framework.cufy.org/docs)
     -   [Github](https://github.com/cufyorg/framework)
-    -   [Jitpack](https://jitpack.io/#cufyorg/framework)
+    -   [Jitpack](https://jitpack.io/#org.cufy/framework)
 
 -   ## Android Commons
     To extend the cufy framework more further. This repository is a part of the
     framework but designed for android. Solving some common issues in android
     application development.
     -   [Github](https://cufyorg.github.io/android-commons)
-    -   [Jitpack](https://jitpack.io/#cufyorg/android-commons)
+    -   [Jitpack](https://jitpack.io/#org.cufy/android-commons)
 
 -   ## Android SettingView
     Dealing with data and settings is a bit hard when it comes to an applications
@@ -41,4 +41,4 @@ of Cufy are mentioned below:
     it with `cufy.beans` and `cufy.io.loadable` will make it more and more easier
     to deal with data in any android application locally and from the internet.
     -   [Github](https://cufyorg.github.io/android-settingview)
-    -   [Jitpack](https://jitpack.io/#cufyorg/android-settingview)
+    -   [Jitpack](https://jitpack.io/#org.cufy/android-settingview)
