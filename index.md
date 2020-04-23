@@ -49,8 +49,8 @@ it can focus on. Below is some of the projects:
 # Explore
 You can explore our projects and plans in these sites:
 -   [Official Website](https://cufy.org)
--   [Github Account](https://github.com/cufyorg)
 -   [Github Page](https://cufyorg.github.io)
+-   [Github Account](https://github.com/cufyorg)
 -   [Instagram Account](https://instagram.com/cufyorg)
 -   [Twitter Account](https://twitter.com/cufyorg)
 -   [Snapchat Account](https://snapchat.com/add/cufyorg)
