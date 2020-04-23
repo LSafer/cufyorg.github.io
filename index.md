@@ -16,7 +16,7 @@ Cufy is a growing organization. It has few projects and all of them
 about programming. Cufy is always open-source.
 
 # Projects
-Cufy is has limited number of members, so it is limited on how many projects
+Cufy has limited number of members, so it is limited on how many projects
 it can focus on. Below is some of the projects:
 
 -   ## Cufy Framework
