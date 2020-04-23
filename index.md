@@ -34,7 +34,7 @@ it can focus on. Below is some of the projects:
     To extend the cufy framework more further. This repository is a part of the
     framework but designed for android. Solving some common issues in android
     application development.
-    -   [Github](https://cufyorg.github.io/android-commons)
+    -   [Github](https://github.com/cufyorg/android-commons)
     -   [Jitpack](https://jitpack.io/#org.cufy/android-commons)
 
 -   ## Android SettingView
@@ -43,7 +43,7 @@ it can focus on. Below is some of the projects:
     automate the UI generating, data saving and data loading. And combining
     it with `cufy.beans` and `cufy.io.loadable` will make it more and more easier
     to deal with data in any android application locally and from the internet.
-    -   [Github](https://cufyorg.github.io/android-settingview)
+    -   [Github](https://github.com/cufyorg/android-settingview)
     -   [Jitpack](https://jitpack.io/#org.cufy/android-settingview)
     
 # Explore
