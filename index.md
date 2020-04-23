@@ -48,17 +48,17 @@ it can focus on. Below is some of the projects:
     
 # Explore
 You can explore our projects and plans in these sites:
--   Official Website: https://cufy.org
--   Github: https://github.com/cufyorg
--   Github Pages: https://cufyorg.github.io
--   Instagram: https://instagram.com/cufyorg/
--   Twitter: https://twitter.com/cufyorg
--   Snapchat: https://snapchat.com/add/cufyorg
+-   [Official Website](https://cufy.org)
+-   [Github Account](https://github.com/cufyorg)
+-   [Github Page](https://cufyorg.github.io)
+-   [Instagram Account](https://instagram.com/cufyorg)
+-   [Twitter Account](https://twitter.com/cufyorg)
+-   [Snapchat Account](https://snapchat.com/add/cufyorg)
 
 # Contact
 To make it easy for you, We have created many ways to reach us. Here are some of them:
--   Email:  support@cufy.org
--   Gmail:  cufyorg@gmail.org
--   Admin:  admin@cufy.org
--   Discord: https://discord.gg/ASAGGy7
--   Gitter: https://gitter.im/cufyorg/community
+-   [Official Email](support@cufy.org)
+-   [Official Gmail](cufyorg@gmail.org)
+-   [Admin Email](admin@cufy.org)
+-   [Discord Server](https://discord.gg/ASAGGy7)
+-   [Gitter Chat](https://gitter.im/cufyorg/community)
