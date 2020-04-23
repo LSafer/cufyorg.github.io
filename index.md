@@ -13,8 +13,11 @@
     </head>
 </html> 
 Cufy is a growing organization. It has few projects and all of them
-about programming. Cufy is always open-source. Some of the projects
-of Cufy are mentioned below:
+about programming. Cufy is always open-source.
+
+# Projects
+Cufy is has limited number of members, so it is limited on how many projects
+it can focus on. Below is some of the projects:
 
 -   ## Cufy Framework
     The main project of the cufy organization. The framework is written in java.
@@ -42,3 +45,20 @@ of Cufy are mentioned below:
     to deal with data in any android application locally and from the internet.
     -   [Github](https://cufyorg.github.io/android-settingview)
     -   [Jitpack](https://jitpack.io/#org.cufy/android-settingview)
+    
+# Explore
+You can explore our projects and plans in these sites:
+-   Official Website: https://cufy.org
+-   Github: https://github.com/cufyorg
+-   Github Pages: https://cufyorg.github.io
+-   Instagram: https://instagram.com/cufyorg/
+-   Twitter: https://twitter.com/cufyorg
+-   Snapchat: https://snapchat.com/add/cufyorg
+
+# Contact
+To make it easy for you, We have created many ways to reach us. Here are some of them:
+-   Email:  support@cufy.org
+-   Gmail:  cufyorg@gmail.org
+-   Admin:  admin@cufy.org
+-   Discord: https://discord.gg/ASAGGy7
+-   Gitter: https://gitter.im/cufyorg/community
