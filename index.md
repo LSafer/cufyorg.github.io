@@ -12,7 +12,7 @@
         </script>
     </head>
 </html> 
-Cufy is a growing organization. It have few projects and all of them
+Cufy is a growing organization. It has few projects and all of them
 about programming. Cufy is always open-source. Some of the projects
 of Cufy are mentioned below:
 
