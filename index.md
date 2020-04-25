@@ -21,8 +21,9 @@
     </head>
 </html>
 
-Cufy is a growing organization. It has few projects and all of them
-about programming. Cufy is always open-source.
+<b>Cufy is a growing organization. It has few projects and all of them
+about programming. Cufy is always open-source. Cufy has limited number 
+of members, so it is limited on how many projects it can focus on.</b> 
 
 <p align="center" class="lollipop">
     <a class="candy" href="https://cufy.org">
@@ -51,66 +52,59 @@ about programming. Cufy is always open-source.
     </a>
 </p>
 
-# Projects
-Cufy has limited number of members, so it is limited on how many projects
-it can focus on. Below is some of the projects:
+## Cufy Framework
+The main project of the cufy organization. The framework is written in java.
+The framework tries to compete with other frameworks. The cufy framework is
+focused on to be more inheritable and more reflection friendly. Making it 
+more reliable in big complex projects. The framework still not completely
+ready to be used in really big projects since it is still in the beta stage.
 
--   ## Cufy Framework
-    The main project of the cufy organization. The framework is written in java.
-    The framework tries to compete with other frameworks. The cufy framework is
-    focused on to be more inheritable and more reflection friendly. Making it 
-    more reliable in big complex projects. The framework still not completely
-    ready to be used in really big projects since it is still in the beta stage.
-    
-    <p align="center" class="lollipop">
-        <a class="candy" href="https://framework.cufy.org">
-            <img alt="Website" src="icon/web.png" width="50" height="50">
-        </a>
-        <a class="candy" href="https://framework.cufy.org/docs">
-            <img alt="Javadoc" src="icon/javadoc.png" width="50" height="50">
-        </a>
-        <a class="candy" href="https://github.com/cufyorg/framework">
-            <img alt="Github" src="icon/github.png" width="50" height="50">
-        </a>
-        <a class="candy" href="https://jitpack.io/#org.cufy/framework">
-            <img alt="Jitpack" src="icon/jitpack.png" width="50" height="50">
-        </a>
-        <a class="candy" href="https://youtube.com/playlist?list=PL4GvMdlkZJ6Y1SkrorANkRHArohilF2Ye">
-            <img alt="Youtube" src="icon/youtube.png" width="50" height="50">
-        </a>
-    </p>
+<p align="center" class="lollipop">
+    <a class="candy" href="https://framework.cufy.org">
+        <img alt="Website" src="icon/web.png" width="50" height="50">
+    </a>
+    <a class="candy" href="https://framework.cufy.org/docs">
+        <img alt="Javadoc" src="icon/javadoc.png" width="50" height="50">
+    </a>
+    <a class="candy" href="https://github.com/cufyorg/framework">
+        <img alt="Github" src="icon/github.png" width="50" height="50">
+    </a>
+    <a class="candy" href="https://jitpack.io/#org.cufy/framework">
+        <img alt="Jitpack" src="icon/jitpack.png" width="50" height="50">
+    </a>
+    <a class="candy" href="https://youtube.com/playlist?list=PL4GvMdlkZJ6Y1SkrorANkRHArohilF2Ye">
+        <img alt="Youtube" src="icon/youtube.png" width="50" height="50">
+    </a>
+</p>
 
--   ## Android Commons
-    To extend the cufy framework more further. This repository is a part of the
-    framework but designed for android. Solving some common issues in android
-    application development.
-    
-    <p align="center" class="lollipop">
-        <a class="candy" href="https://github.com/cufyorg/android-commons">
-            <img alt="Github" src="icon/github.png" width="50" height="50">
-        </a>
-        <a class="candy" href="https://jitpack.io/#org.cufy/android-commons">
-            <img alt="Jitpack" src="icon/jitpack.png" width="50" height="50">
-        </a>
-    </p>
+## Android Commons
+To extend the cufy framework more further. This repository is a part of the
+framework but designed for android. Solving some common issues in android
+application development.
 
--   ## Android SettingView
-    Dealing with data and settings is a bit hard when it comes to an applications
-    with a lot of performance choices. The SettingView is an abstraction to
-    automate the UI generating, data saving and data loading. And combining
-    it with `cufy.beans` and `cufy.io.loadable` will make it more and more easier
-    to deal with data in any android application locally and from the internet.
-    
-    <p align="center" class="lollipop">
-        <a class="candy" href="https://github.com/cufyorg/android-settingview">
-            <img alt="Github" src="icon/github.png" width="50" height="50">
-        </a>
-        <a class="candy" href="https://jitpack.io/#org.cufy/android-settingview">
-            <img alt="Jitpack" src="icon/jitpack.png" width="50" height="50">
-        </a>
-    </p>
+<p align="center" class="lollipop">
+    <a class="candy" href="https://github.com/cufyorg/android-commons">
+        <img alt="Github" src="icon/github.png" width="50" height="50">
+    </a>
+    <a class="candy" href="https://jitpack.io/#org.cufy/android-commons">
+        <img alt="Jitpack" src="icon/jitpack.png" width="50" height="50">
+    </a>
+</p>
 
+## Android SettingView
+Dealing with data and settings is a bit hard when it comes to an applications
+with a lot of performance choices. The SettingView is an abstraction to
+automate the UI generating, data saving and data loading. And combining
+it with `cufy.beans` and `cufy.io.loadable` will make it more and more easier
+to deal with data in any android application locally and from the internet.
 
--   Official Email: support@cufy.org
--   Official Gmail: cufyorg@gmail.org
--   Admin Email:    admin@cufy.org
+<p align="center" class="lollipop">
+    <a class="candy" href="https://github.com/cufyorg/android-settingview">
+        <img alt="Github" src="icon/github.png" width="50" height="50">
+    </a>
+    <a class="candy" href="https://jitpack.io/#org.cufy/android-settingview">
+        <img alt="Jitpack" src="icon/jitpack.png" width="50" height="50">
+    </a>
+</p>
+
+<p align="center"> support@cufy.org • cufyorg@gmail.org • admin@cufy.org</p>
