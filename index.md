@@ -26,7 +26,7 @@ it can focus on. Below is some of the projects:
     more reliable in big complex projects. The framework still not completely
     ready to be used in really big projects since it is still in the beta stage.
     
-    <p align="center">
+    <p align="center" padding="100">
         <a href="https://framework.cufy.org">
             <img alt="Website" src="icon/web.png" width="50" height="50">
         </a>
