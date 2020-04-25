@@ -26,9 +26,6 @@ about programming. Cufy is always open-source. Cufy has limited number
 of members, so it is limited on how many projects it can focus on.</b> 
 
 <p align="center" class="lollipop">
-    <a class="candy" href="https://cufy.org">
-        <img alt="Website" src="icon/web.png" width="50" height="50">
-    </a>
     <a class="candy" href="https://github.com/cufyorg">
         <img alt="Github" src="icon/github.png" width="50" height="50">
     </a>
