@@ -29,6 +29,7 @@ it can focus on. Below is some of the projects:
     -   [javadoc](https://framework.cufy.org/docs)
     -   [Github](https://github.com/cufyorg/framework)
     -   [Jitpack](https://jitpack.io/#org.cufy/framework)
+    -   [Youtube](https://www.youtube.com/playlist?list=PL4GvMdlkZJ6Y1SkrorANkRHArohilF2Ye)
 
 -   ## Android Commons
     To extend the cufy framework more further. This repository is a part of the
