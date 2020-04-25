@@ -19,9 +19,37 @@
             }
         </style>
     </head>
-</html> 
+</html>
+
 Cufy is a growing organization. It has few projects and all of them
 about programming. Cufy is always open-source.
+
+<p align="center" class="lollipop">
+    <a class="candy" href="https://cufy.org">
+        <img alt="Website" src="icon/web.png" width="50" height="50">
+    </a>
+    <a class="candy" href="https://github.com/cufyorg">
+        <img alt="Github" src="icon/github.png" width="50" height="50">
+    </a>
+    <a class="candy" href="https://youtube.com/channel/UCQrEzyMcfnvfNG6irFRBePg">
+        <img alt="Youtube" src="icon/youtube.png" width="50" height="50">
+    </a>
+    <a class="candy" href="https://discord.gg/ASAGGy7">
+        <img alt="Discord" src="icon/discord.png" width="50" height="50">
+    </a>
+    <a class="candy" href="https://gitter.im/cufyorg/community">
+        <img alt="Gitter" src="icon/gitter.png" width="50" height="50">
+    </a>
+    <a class="candy" href="https://instagram.com/cufyorg">
+        <img alt="Instagram" src="icon/instagram.png" width="50" height="50">
+    </a>
+    <a class="candy" href="https://twitter.com/cufyorg">
+        <img alt="Twitter" src="icon/twitter.png" width="50" height="50">
+    </a>
+    <a class="candy" href="https://snapchat.com/add/cufyorg">
+        <img alt="Snapchat" src="icon/snapchat.png" width="50" height="50">
+    </a>
+</p>
 
 # Projects
 Cufy has limited number of members, so it is limited on how many projects
@@ -82,38 +110,6 @@ it can focus on. Below is some of the projects:
         </a>
     </p>
 
-# Explore
-You can explore our projects and plans in these sites:
-
-<p align="center" class="lollipop">
-    <a class="candy" href="https://cufy.org">
-        <img alt="Website" src="icon/web.png" width="50" height="50">
-    </a>
-    <a class="candy" href="https://github.com/cufyorg">
-        <img alt="Github" src="icon/github.png" width="50" height="50">
-    </a>
-    <a class="candy" href="https://youtube.com/channel/UCQrEzyMcfnvfNG6irFRBePg">
-        <img alt="Youtube" src="icon/youtube.png" width="50" height="50">
-    </a>
-    <a class="candy" href="https://discord.gg/ASAGGy7">
-        <img alt="Discord" src="icon/discord.png" width="50" height="50">
-    </a>
-    <a class="candy" href="https://gitter.im/cufyorg/community">
-        <img alt="Gitter" src="icon/gitter.png" width="50" height="50">
-    </a>
-    <a class="candy" href="https://instagram.com/cufyorg">
-        <img alt="Instagram" src="icon/instagram.png" width="50" height="50">
-    </a>
-    <a class="candy" href="https://twitter.com/cufyorg">
-        <img alt="Twitter" src="icon/twitter.png" width="50" height="50">
-    </a>
-    <a class="candy" href="https://snapchat.com/add/cufyorg">
-        <img alt="Snapchat" src="icon/snapchat.png" width="50" height="50">
-    </a>
-</p>
-
-# Contact
-To make it easy for you, We have created many ways to reach us. Here are some of them:
 
 -   Official Email: support@cufy.org
 -   Official Gmail: cufyorg@gmail.org
