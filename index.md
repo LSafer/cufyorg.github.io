@@ -11,8 +11,11 @@
             };
         </script>
         <style>
-            p {
-                padding: 100px;
+            .lollipop {
+                padding: 20px;
+            }
+            .candy {
+                margin: 10px;
             }
         </style>
     </head>
@@ -31,20 +34,20 @@ it can focus on. Below is some of the projects:
     more reliable in big complex projects. The framework still not completely
     ready to be used in really big projects since it is still in the beta stage.
     
-    <p align="center">
-        <a href="https://framework.cufy.org">
+    <p align="center" class="lollipop">
+        <a class="candy" href="https://framework.cufy.org">
             <img alt="Website" src="icon/web.png" width="50" height="50">
         </a>
-        <a href="https://framework.cufy.org/docs">
+        <a class="candy" href="https://framework.cufy.org/docs">
             <img alt="Javadoc" src="icon/javadoc.png" width="50" height="50">
         </a>
-        <a href="https://github.com/cufyorg/framework">
+        <a class="candy" href="https://github.com/cufyorg/framework">
             <img alt="Github" src="icon/github.png" width="50" height="50">
         </a>
-        <a href="https://jitpack.io/#org.cufy/framework">
+        <a class="candy" href="https://jitpack.io/#org.cufy/framework">
             <img alt="Jitpack" src="icon/jitpack.png" width="50" height="50">
         </a>
-        <a href="https://youtube.com/playlist?list=PL4GvMdlkZJ6Y1SkrorANkRHArohilF2Ye">
+        <a class="candy" href="https://youtube.com/playlist?list=PL4GvMdlkZJ6Y1SkrorANkRHArohilF2Ye">
             <img alt="Youtube" src="icon/youtube.png" width="50" height="50">
         </a>
     </p>
@@ -54,11 +57,11 @@ it can focus on. Below is some of the projects:
     framework but designed for android. Solving some common issues in android
     application development.
     
-    <p align="center">
-        <a href="https://github.com/cufyorg/android-commons">
+    <p align="center" class="lollipop">
+        <a class="candy" href="https://github.com/cufyorg/android-commons">
             <img alt="Github" src="icon/github.png" width="50" height="50">
         </a>
-        <a href="https://jitpack.io/#org.cufy/android-commons">
+        <a class="candy" href="https://jitpack.io/#org.cufy/android-commons">
             <img alt="Jitpack" src="icon/jitpack.png" width="50" height="50">
         </a>
     </p>
@@ -70,11 +73,11 @@ it can focus on. Below is some of the projects:
     it with `cufy.beans` and `cufy.io.loadable` will make it more and more easier
     to deal with data in any android application locally and from the internet.
     
-    <p align="center">
-        <a href="https://github.com/cufyorg/android-settingview">
+    <p align="center" class="lollipop">
+        <a class="candy" href="https://github.com/cufyorg/android-settingview">
             <img alt="Github" src="icon/github.png" width="50" height="50">
         </a>
-        <a href="https://jitpack.io/#org.cufy/android-settingview">
+        <a class="candy" href="https://jitpack.io/#org.cufy/android-settingview">
             <img alt="Jitpack" src="icon/jitpack.png" width="50" height="50">
         </a>
     </p>
@@ -82,29 +85,29 @@ it can focus on. Below is some of the projects:
 # Explore
 You can explore our projects and plans in these sites:
 
-<p align="center">
-    <a href="https://cufy.org">
+<p align="center" class="lollipop">
+    <a class="candy" href="https://cufy.org">
         <img alt="Website" src="icon/web.png" width="50" height="50">
     </a>
-    <a href="https://github.com/cufyorg">
+    <a class="candy" href="https://github.com/cufyorg">
         <img alt="Github" src="icon/github.png" width="50" height="50">
     </a>
-    <a href="https://youtube.com/channel/UCQrEzyMcfnvfNG6irFRBePg">
+    <a class="candy" href="https://youtube.com/channel/UCQrEzyMcfnvfNG6irFRBePg">
         <img alt="Youtube" src="icon/youtube.png" width="50" height="50">
     </a>
-    <a href="https://discord.gg/ASAGGy7">
+    <a class="candy" href="https://discord.gg/ASAGGy7">
         <img alt="Discord" src="icon/discord.png" width="50" height="50">
     </a>
-    <a href="https://gitter.im/cufyorg/community">
+    <a class="candy" href="https://gitter.im/cufyorg/community">
         <img alt="Gitter" src="icon/gitter.png" width="50" height="50">
     </a>
-    <a href="https://instagram.com/cufyorg">
+    <a class="candy" href="https://instagram.com/cufyorg">
         <img alt="Instagram" src="icon/instagram.png" width="50" height="50">
     </a>
-    <a href="https://twitter.com/cufyorg">
+    <a class="candy" href="https://twitter.com/cufyorg">
         <img alt="Twitter" src="icon/twitter.png" width="50" height="50">
     </a>
-    <a href="https://snapchat.com/add/cufyorg">
+    <a class="candy" href="https://snapchat.com/add/cufyorg">
         <img alt="Snapchat" src="icon/snapchat.png" width="50" height="50">
     </a>
 </p>
