@@ -51,6 +51,7 @@ You can explore our projects and plans in these sites:
 -   [Official Website](https://cufy.org)
 -   [Github Page](https://cufyorg.github.io)
 -   [Github Account](https://github.com/cufyorg)
+-   [Youtube Channel](https://www.youtube.com/channel/UCQrEzyMcfnvfNG6irFRBePg)
 -   [Instagram Account](https://instagram.com/cufyorg)
 -   [Twitter Account](https://twitter.com/cufyorg)
 -   [Snapchat Account](https://snapchat.com/add/cufyorg)
