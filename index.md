@@ -3,6 +3,7 @@
         <title>Cufy</title>
         <script>
             window.onload = function() {
+              top.document.title = "Cufy Organization";
               let link = top.document.createElement("link");
               link.type = "image/*";
               link.rel = "icon";
