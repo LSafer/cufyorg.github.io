@@ -2,3 +2,9 @@ theme: jekyll-theme-slate
 
 title: Cufy
 description: Organization
+
+
+destination: ./docs
+
+exclude:
+  - ./docs
