@@ -17,6 +17,9 @@
             }
             .candy {
                 margin: 10px;
+                color: black;
+                text-align: center;
+                font-family: Impact, Charcoal, sans-serif;
             }
         </style>
     </head>
@@ -28,7 +31,7 @@ of members, so it is limited on how many projects it can focus on.</b>
 
 <p align="center" class="lollipop">
     <a class="candy" href="https://github.com/cufyorg">
-        <img alt="Github" src="images/github.png" width="50" height="50">
+        GitHub
     </a>
     <a class="candy" href="https://youtube.com/channel/UCQrEzyMcfnvfNG6irFRBePg">
         <img alt="Youtube" src="images/youtube.png" width="50" height="50">
