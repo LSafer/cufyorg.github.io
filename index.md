@@ -17,6 +17,8 @@
             }
             .candy {
                 margin: 10px;
+                font-size: x-large;
+                font-weight: bold;
                 color: black;
                 text-align: center;
                 font-family: Impact, Charcoal, sans-serif;
