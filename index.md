@@ -34,22 +34,22 @@ of members, so it is limited on how many projects it can focus on.</b>
         GitHub
     </a>
     <a class="candy" href="https://youtube.com/channel/UCQrEzyMcfnvfNG6irFRBePg">
-        <img alt="Youtube" src="images/youtube.png" width="50" height="50">
+        YouTube
     </a>
     <a class="candy" href="https://discord.gg/ASAGGy7">
-        <img alt="Discord" src="images/discord.png" width="50" height="50">
+        Discord
     </a>
     <a class="candy" href="https://gitter.im/cufyorg/community">
-        <img alt="Gitter" src="images/gitter.png" width="50" height="50">
+        Gitter
     </a>
     <a class="candy" href="https://instagram.com/cufyorg">
-        <img alt="Instagram" src="images/instagram.png" width="50" height="50">
+        Instagram
     </a>
     <a class="candy" href="https://twitter.com/cufyorg">
-        <img alt="Twitter" src="images/twitter.png" width="50" height="50">
+        Twitter
     </a>
     <a class="candy" href="https://snapchat.com/add/cufyorg">
-        <img alt="Snapchat" src="images/snapchat.png" width="50" height="50">
+        Snapchat
     </a>
 </p>
 
@@ -62,19 +62,19 @@ ready to be used in really big projects since it is still in the beta stage.
 
 <p align="center" class="lollipop">
     <a class="candy" href="https://framework.cufy.org">
-        <img alt="Website" src="images/web.png" width="50" height="50">
-    </a>
-    <a class="candy" href="https://framework.cufy.org/docs">
-        <img alt="Javadoc" src="images/javadoc.png" width="50" height="50">
+        Site
     </a>
     <a class="candy" href="https://github.com/cufyorg/framework">
-        <img alt="Github" src="images/github.png" width="50" height="50">
+        GitHub
+    </a>
+    <a class="candy" href="https://framework.cufy.org/docs">
+        Javadoc
     </a>
     <a class="candy" href="https://jitpack.io/#org.cufy/framework">
-        <img alt="Jitpack" src="images/jitpack.png" width="50" height="50">
+        Jitpack
     </a>
     <a class="candy" href="https://youtube.com/playlist?list=PL4GvMdlkZJ6Y1SkrorANkRHArohilF2Ye">
-        <img alt="Youtube" src="images/youtube.png" width="50" height="50">
+        Youtube
     </a>
 </p>
 
@@ -85,10 +85,10 @@ application development.
 
 <p align="center" class="lollipop">
     <a class="candy" href="https://github.com/cufyorg/android-commons">
-        <img alt="Github" src="images/github.png" width="50" height="50">
+        GitHub
     </a>
     <a class="candy" href="https://jitpack.io/#org.cufy/android-commons">
-        <img alt="Jitpack" src="images/jitpack.png" width="50" height="50">
+        Jitpack
     </a>
 </p>
 
@@ -101,11 +101,9 @@ to deal with data in any android application locally and from the internet.
 
 <p align="center" class="lollipop">
     <a class="candy" href="https://github.com/cufyorg/android-settingview">
-        <img alt="Github" src="images/github.png" width="50" height="50">
+        GitHub
     </a>
     <a class="candy" href="https://jitpack.io/#org.cufy/android-settingview">
-        <img alt="Jitpack" src="images/jitpack.png" width="50" height="50">
+        JitPack
     </a>
 </p>
-
-<p align="center"> support@cufy.org • cufyorg@gmail.org • admin@cufy.org</p>
