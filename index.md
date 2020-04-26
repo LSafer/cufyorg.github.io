@@ -27,25 +27,25 @@ of members, so it is limited on how many projects it can focus on.</b>
 
 <p align="center" class="lollipop">
     <a class="candy" href="https://github.com/cufyorg">
-        <img alt="Github" src="icon/github.png" width="50" height="50">
+        <img alt="Github" src="images/github.png" width="50" height="50">
     </a>
     <a class="candy" href="https://youtube.com/channel/UCQrEzyMcfnvfNG6irFRBePg">
-        <img alt="Youtube" src="icon/youtube.png" width="50" height="50">
+        <img alt="Youtube" src="images/youtube.png" width="50" height="50">
     </a>
     <a class="candy" href="https://discord.gg/ASAGGy7">
-        <img alt="Discord" src="icon/discord.png" width="50" height="50">
+        <img alt="Discord" src="images/discord.png" width="50" height="50">
     </a>
     <a class="candy" href="https://gitter.im/cufyorg/community">
-        <img alt="Gitter" src="icon/gitter.png" width="50" height="50">
+        <img alt="Gitter" src="images/gitter.png" width="50" height="50">
     </a>
     <a class="candy" href="https://instagram.com/cufyorg">
-        <img alt="Instagram" src="icon/instagram.png" width="50" height="50">
+        <img alt="Instagram" src="images/instagram.png" width="50" height="50">
     </a>
     <a class="candy" href="https://twitter.com/cufyorg">
-        <img alt="Twitter" src="icon/twitter.png" width="50" height="50">
+        <img alt="Twitter" src="images/twitter.png" width="50" height="50">
     </a>
     <a class="candy" href="https://snapchat.com/add/cufyorg">
-        <img alt="Snapchat" src="icon/snapchat.png" width="50" height="50">
+        <img alt="Snapchat" src="images/snapchat.png" width="50" height="50">
     </a>
 </p>
 
@@ -58,19 +58,19 @@ ready to be used in really big projects since it is still in the beta stage.
 
 <p align="center" class="lollipop">
     <a class="candy" href="https://framework.cufy.org">
-        <img alt="Website" src="icon/web.png" width="50" height="50">
+        <img alt="Website" src="images/web.png" width="50" height="50">
     </a>
     <a class="candy" href="https://framework.cufy.org/docs">
-        <img alt="Javadoc" src="icon/javadoc.png" width="50" height="50">
+        <img alt="Javadoc" src="images/javadoc.png" width="50" height="50">
     </a>
     <a class="candy" href="https://github.com/cufyorg/framework">
-        <img alt="Github" src="icon/github.png" width="50" height="50">
+        <img alt="Github" src="images/github.png" width="50" height="50">
     </a>
     <a class="candy" href="https://jitpack.io/#org.cufy/framework">
-        <img alt="Jitpack" src="icon/jitpack.png" width="50" height="50">
+        <img alt="Jitpack" src="images/jitpack.png" width="50" height="50">
     </a>
     <a class="candy" href="https://youtube.com/playlist?list=PL4GvMdlkZJ6Y1SkrorANkRHArohilF2Ye">
-        <img alt="Youtube" src="icon/youtube.png" width="50" height="50">
+        <img alt="Youtube" src="images/youtube.png" width="50" height="50">
     </a>
 </p>
 
@@ -81,10 +81,10 @@ application development.
 
 <p align="center" class="lollipop">
     <a class="candy" href="https://github.com/cufyorg/android-commons">
-        <img alt="Github" src="icon/github.png" width="50" height="50">
+        <img alt="Github" src="images/github.png" width="50" height="50">
     </a>
     <a class="candy" href="https://jitpack.io/#org.cufy/android-commons">
-        <img alt="Jitpack" src="icon/jitpack.png" width="50" height="50">
+        <img alt="Jitpack" src="images/jitpack.png" width="50" height="50">
     </a>
 </p>
 
@@ -97,10 +97,10 @@ to deal with data in any android application locally and from the internet.
 
 <p align="center" class="lollipop">
     <a class="candy" href="https://github.com/cufyorg/android-settingview">
-        <img alt="Github" src="icon/github.png" width="50" height="50">
+        <img alt="Github" src="images/github.png" width="50" height="50">
     </a>
     <a class="candy" href="https://jitpack.io/#org.cufy/android-settingview">
-        <img alt="Jitpack" src="icon/jitpack.png" width="50" height="50">
+        <img alt="Jitpack" src="images/jitpack.png" width="50" height="50">
     </a>
 </p>
 
