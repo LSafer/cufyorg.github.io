@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dc6b3cce-e060-4d4b-a8c2-3d09814391b4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1b5yltrKes0MYBKMjdYwztiB83K" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assest/logo" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Projects\cufy\cufy.org\assest\logo" />
+      <recent name="C:\Projects\cufy\cufy.org" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Projects\cufy\cufy.org\build" />
+      <recent name="C:\Projects\cufy\cufy.org\_pages" />
+      <recent name="C:\Projects\cufy\cufy.org" />
+      <recent name="C:\Projects\cufy\cufy.org\_site" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc6b3cce-e060-4d4b-a8c2-3d09814391b4" name="Default Changelist" comment="" />
+      <created>1587936403911</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587936403911</updated>
+      <workItem from="1587936405102" duration="22247000" />
+      <workItem from="1588026487099" duration="8038000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="244" y="330" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588006790769">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="244" y="330" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1588006790769" />
+    <state x="210" y="275" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1588027043628">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="210" y="275" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1588027043628" />
+    <state x="260" y="283" key="FileChooserDialogImpl" timestamp="1587997793014">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="260" y="283" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1587997793014" />
+    <state x="165" y="129" key="SettingsEditor" timestamp="1587990581643">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="165" y="129" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1587990581643" />
+    <state x="201" y="273" width="540" height="524" key="StructurePopup" timestamp="1588032402717">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="201" y="273" width="540" height="524" key="StructurePopup/0.0.1920.1050@0.0.1920.1050" timestamp="1588032402717" />
+    <state x="136" y="247" key="run.anything.popup" timestamp="1587999483713">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="136" y="247" key="run.anything.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1587999483713" />
+    <state x="143" y="233" width="672" height="678" key="search.everywhere.popup" timestamp="1587997093580">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="143" y="233" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1587997093580" />
+  </component>
+</project>
