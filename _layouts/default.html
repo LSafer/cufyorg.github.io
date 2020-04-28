@@ -18,6 +18,17 @@
             text-align: center;
         }
 
+        .candy:hover {
+            margin-right: 5px;
+            padding: 3px;
+            text-decoration: none;
+            font-size: medium;
+            font-weight: lighter;
+            color: black;
+            background: white;
+            text-align: center;
+        }
+
         .small_candy {
             margin-right: 5px;
             font-size: medium;
@@ -47,12 +58,12 @@
 <!-- HEADER -->
 <div id="header_wrap" class="outer">
     <header class="inner">
-        <h1 id="project_title">{{ site.title }}</h1>
+        <h1 id="project_title">{{ page.title }}</h1>
         <!-- h2 id="project_tagline">{{ site.tagline }}</h2-->
 
         <!-- links -->
         <div class="lollipop" id="links">
-            {% for link in site.links %}
+            {% for link in page.links %}
             <a class="candy" href="{{ link[1] }}">{{ link[0] }}</a>
             {% endfor %}
         </div>
