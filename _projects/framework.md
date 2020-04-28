@@ -4,7 +4,7 @@ title: Framework
 href: https://framework.cufy.org
 links:
     GitHub: https://github.com/cufyorg/framework
-    Javadoc: https://framework.cufy.org/docs
+    Javadoc: https://framework.cufy.org/javadoc
     Jitpack: https://jitpack.io/#org.cufy/framework
     YouTube: https://youtube.com/playlist?list=PL4GvMdlkZJ6Y1SkrorANkRHArohilF2Ye
 ---
