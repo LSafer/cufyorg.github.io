@@ -6,14 +6,13 @@ layout: default
 links:
   Android: https://android.cufy.org
   GitHub: https://github.com/cufyorg
+  Patreon: https://patreon.com/cufy
   YouTube: https://youtube.com/channel/UCQrEzyMcfnvfNG6irFRBePg
   Discord: https://discord.gg/ASAGGy7
   Gitter: https://gitter.im/cufyorg/community
-  Twitch: https://www.twitch.tv/cufyorg
   Instagram: https://instagram.com/cufyorg
   Twitter: https://twitter.com/cufyorg
   Snapchat: https://snapchat.com/add/cufyorg
-
 ---
 
 {{ site.description }}
