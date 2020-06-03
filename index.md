@@ -4,7 +4,7 @@
 
 layout: default
 links:
-  Android: https://android.cufy.org
+  Android: https://cufyx.org
   GitHub: https://github.com/cufyorg
   Patreon: https://patreon.com/cufy
   YouTube: https://youtube.com/channel/UCQrEzyMcfnvfNG6irFRBePg
