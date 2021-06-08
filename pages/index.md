@@ -116,4 +116,10 @@ respecting each Node's freedom of mutability.
         padding: 20px;
         color: whitesmoke;
     }
+
+    @media (max-width: 720px) {
+        a img {
+            display: none;
+        }
+    }
 </style>
