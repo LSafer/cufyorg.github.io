@@ -27,8 +27,7 @@ framework tries to compete with other frameworks. The cufy framework is focused 
 more inheritable and more reflection friendly. Making it more reliable in big complex
 projects. The framework still not completely ready to be used in really big projects since
 it is still in the beta stage. The framework is divided onto different packages. Each
-package allowed to use specific packages only. And each package have it's own targets. The
-following is a list of the main packages in this framework.
+package allowed to use specific packages only. And each package have it's own targets.
 
 [![Nodes][repo_framework]][github_framework]
 
@@ -90,7 +89,7 @@ more general structure. Nodes library provides the Node interface witch is a dat
 that can be attached to other data points in any real or fictional direction. Each node
 might reject to be modified without destroying the structure. Since the Node interface has
 a well engineered attaching mechanism that allows two nodes to attach together while
-respecting each Node's freedom of not mutability.
+respecting each Node's freedom of mutability.
 
 [![Nodes][repo_nodes]][github_nodes]
 
