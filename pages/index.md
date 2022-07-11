@@ -20,19 +20,6 @@ experience and popularity. This website lists the main projects of Cufy.
 <hr>
 <br>
 
-## <a href="https://framework.cufy.org">Framework</a>
-
-The first project of the cufy organization. The framework is written in java. The
-framework tries to compete with other frameworks. The cufy framework is focused on to be
-more inheritable and more reflection friendly. Making it more reliable in big complex
-projects. The framework still not completely ready to be used in really big projects since
-it is still in the beta stage. The framework is divided onto different packages. Each
-package allowed to use specific packages only. And each package have it's own targets.
-
-[![Nodes][repo_framework]][github_framework]
-
-<br>
-
 ## <a href="https://jamplate.org">Jamplate</a>
 
 Jamplate is a C-Style pre-processor. Although it is a C-Style, this does not mean it is
@@ -78,21 +65,6 @@ body writing the query, etc. This library also has a supporting library for andr
 providing help for synchronization and storing the Context.
 
 [![Nodes][repo_http]][github_http]
-
-<br>
-
-## <a href="http://github.com/cufyorg/nodes">Nodes</a>
-
-When dealing with points in an endless space while each point has multiple relations in
-various directions between it and other points, Maps and List cannot provide the suitable
-more general structure. Nodes library provides the Node interface witch is a data point
-that can be attached to other data points in any real or fictional direction. Each node
-might reject to be modified without destroying the structure. Since the Node interface has
-a well engineered attaching mechanism that allows two nodes to attach together while
-respecting each Node's freedom of mutability.
-
-[![Nodes][repo_nodes]][github_nodes]
-
 
 [github_nodes]: https://github.com/cufyorg/nodes
 [repo_nodes]: https://github-readme-stats.vercel.app/api/pin?username=cufyorg&repo=nodes&show_owner=1&theme=dracula&border_color=333333&bg_color=333333
