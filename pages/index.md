@@ -26,7 +26,7 @@ Jamplate is a C-Style pre-processor. Although it is a C-Style, this does not mea
 following the C standard. This pre-processor has almost the same expected behaviour as a
 standard C pre-processors with some features added and some missing.
 
-[![Nodes][repo_jamplate]][github_jamplate]
+[![Jamplate][repo_jamplate]][github_jamplate]
 
 <pre class="prettyprint language-jamplate">
 	#for $output ['firstfile', 'secondfile', 'thirdfile', 'forthfile']
@@ -56,6 +56,31 @@ standard C pre-processors with some features added and some missing.
 
 <br>
 
+## <a href="https://github.com/cufyorg/mangaka">Mangaka</a>
+
+A `mongodb`, `mongoose` equivilant driver for `kotlin`.
+
+[![Mangaka][repo_mangaka]][github_mangaka]
+
+<br>
+
+## <a href="https://github.com/cufyorg/kaguya">Kaguya</a>
+
+A `kotlin`-friendly wrapper for `graphql-java` with `ktor` integration
+
+[![Mangaka][repo_kaguya]][github_kaguya]
+
+<br>
+
+
+## <a href="https://github.com/cufyorg/openperm-kt">Openperm</a>
+
+A `kotlin` permission/authorization calculator. 
+
+[![Mangaka][repo_kaguya]][github_kaguya]
+
+<br>
+
 ## <a href="https://github.com/cufyorg/http">Http</a>
 
 A java builder-style customizable http client that can integrate with other Http client
@@ -64,19 +89,24 @@ be done in a few lines and with one statement, including: setting the headers, w
 body writing the query, etc. This library also has a supporting library for android
 providing help for synchronization and storing the Context.
 
-[![Nodes][repo_http]][github_http]
+[![Http][repo_http]][github_http]
 
-[github_nodes]: https://github.com/cufyorg/nodes
-[repo_nodes]: https://github-readme-stats.vercel.app/api/pin?username=cufyorg&repo=nodes&show_owner=1&theme=dracula&border_color=333333&bg_color=333333
+<br>
 
-[github_http]: https://github.com/cufyorg/http
-[repo_http]: https://github-readme-stats.vercel.app/api/pin?username=cufyorg&repo=http&show_owner=1&theme=dracula&border_color=333333&bg_color=333333
+[github_mangaka]: https://github.com/cufyorg/mangaka
+[repo_mangaka]: https://github-readme-stats.vercel.app/api/pin?username=cufyorg&repo=mangaka&show_owner=1&theme=dracula&border_color=333333&bg_color=333333
+
+[github_kaguya]: https://github.com/cufyorg/kaguya
+[repo_kaguya]: https://github-readme-stats.vercel.app/api/pin?username=cufyorg&repo=kaguya&show_owner=1&theme=dracula&border_color=333333&bg_color=333333
+
+[github_openperm]: https://github.com/cufyorg/openperm-kt
+[repo_openperm]: https://github-readme-stats.vercel.app/api/pin?username=cufyorg&repo=openperm-kt&show_owner=1&theme=dracula&border_color=333333&bg_color=333333
 
 [github_jamplate]: https://github.com/jamplate/processor
 [repo_jamplate]: https://github-readme-stats.vercel.app/api/pin?username=jamplate&repo=processor&show_owner=1&theme=dracula&border_color=333333&bg_color=333333
 
-[github_framework]: https://github.com/cufyorg/framework
-[repo_framework]: https://github-readme-stats.vercel.app/api/pin?username=cufyorg&repo=framework&show_owner=1&theme=dracula&border_color=333333&bg_color=333333
+[github_http]: https://github.com/cufyorg/http
+[repo_http]: https://github-readme-stats.vercel.app/api/pin?username=cufyorg&repo=http&show_owner=1&theme=dracula&border_color=333333&bg_color=333333
 
 <style>
     a img {
