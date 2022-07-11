@@ -77,7 +77,7 @@ A `kotlin`-friendly wrapper for `graphql-java` with `ktor` integration
 
 A `kotlin` permission/authorization calculator. 
 
-[![Mangaka][repo_kaguya]][github_kaguya]
+[![Mangaka][repo_openperm-kt]][github_openperm-kt]
 
 <br>
 
@@ -99,8 +99,8 @@ providing help for synchronization and storing the Context.
 [github_kaguya]: https://github.com/cufyorg/kaguya
 [repo_kaguya]: https://github-readme-stats.vercel.app/api/pin?username=cufyorg&repo=kaguya&show_owner=1&theme=dracula&border_color=333333&bg_color=333333
 
-[github_openperm]: https://github.com/cufyorg/openperm-kt
-[repo_openperm]: https://github-readme-stats.vercel.app/api/pin?username=cufyorg&repo=openperm-kt&show_owner=1&theme=dracula&border_color=333333&bg_color=333333
+[github_openperm-kt]: https://github.com/cufyorg/openperm-kt
+[repo_openperm-kt]: https://github-readme-stats.vercel.app/api/pin?username=cufyorg&repo=openperm-kt&show_owner=1&theme=dracula&border_color=333333&bg_color=333333
 
 [github_jamplate]: https://github.com/jamplate/processor
 [repo_jamplate]: https://github-readme-stats.vercel.app/api/pin?username=jamplate&repo=processor&show_owner=1&theme=dracula&border_color=333333&bg_color=333333
