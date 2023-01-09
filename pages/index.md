@@ -56,7 +56,7 @@ standard C pre-processors with some features added and some missing.
 
 <br>
 
-## <a href="https://github.com/cufyorg/monkt">monkt</a>
+## <a href="https://github.com/cufyorg/monkt">Monkt</a>
 
 A `mongodb`, `mongoose` equivilant driver for `kotlin`.
 
