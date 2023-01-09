@@ -56,19 +56,19 @@ standard C pre-processors with some features added and some missing.
 
 <br>
 
-## <a href="https://github.com/cufyorg/mangaka">Mangaka</a>
+## <a href="https://github.com/cufyorg/monkt">monkt</a>
 
 A `mongodb`, `mongoose` equivilant driver for `kotlin`.
 
-[![Mangaka][repo_mangaka]][github_mangaka]
+[![Monkt][repo_monkt]][github_monkt]
 
 <br>
 
-## <a href="https://github.com/cufyorg/kaguya">Kaguya</a>
+## <a href="https://github.com/cufyorg/graphkt">Graphkt</a>
 
 A `kotlin`-friendly wrapper for `graphql-java` with `ktor` integration
 
-[![Mangaka][repo_kaguya]][github_kaguya]
+[![Graphkt][repo_graphkt]][github_graphkt]
 
 <br>
 
@@ -77,7 +77,7 @@ A `kotlin`-friendly wrapper for `graphql-java` with `ktor` integration
 
 A `kotlin` permission/authorization calculator. 
 
-[![Mangaka][repo_openperm-kt]][github_openperm-kt]
+[![Openperm][repo_openperm-kt]][github_openperm-kt]
 
 <br>
 
@@ -93,11 +93,11 @@ providing help for synchronization and storing the Context.
 
 <br>
 
-[github_mangaka]: https://github.com/cufyorg/mangaka
-[repo_mangaka]: https://github-readme-stats.vercel.app/api/pin?username=cufyorg&repo=mangaka&show_owner=1&theme=dracula&border_color=333333&bg_color=333333
+[github_monkt]: https://github.com/cufyorg/monkt
+[repo_monkt]: https://github-readme-stats.vercel.app/api/pin?username=cufyorg&repo=monkt&show_owner=1&theme=dracula&border_color=333333&bg_color=333333
 
-[github_kaguya]: https://github.com/cufyorg/kaguya
-[repo_kaguya]: https://github-readme-stats.vercel.app/api/pin?username=cufyorg&repo=kaguya&show_owner=1&theme=dracula&border_color=333333&bg_color=333333
+[github_graphkt]: https://github.com/cufyorg/graphkt
+[repo_graphkt]: https://github-readme-stats.vercel.app/api/pin?username=cufyorg&repo=graphkt&show_owner=1&theme=dracula&border_color=333333&bg_color=333333
 
 [github_openperm-kt]: https://github.com/cufyorg/openperm-kt
 [repo_openperm-kt]: https://github-readme-stats.vercel.app/api/pin?username=cufyorg&repo=openperm-kt&show_owner=1&theme=dracula&border_color=333333&bg_color=333333
